@@ -1,5 +1,7 @@
 # Music Painter
 
+vibecoded ++
+
 A browser-based MIDI canvas that turns a live keyboard performance into animated paintings. It includes a musical sun-and-cloud scene, a finite parallax cloud journey with a pitch-driven kite, and an ancient forest with chord ribbons, ripples, and drifting leaves. Music Painter can also forward the original MIDI messages to a connected synth.
 
 ## Run locally
